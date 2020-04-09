@@ -1,0 +1,19 @@
+body{
+    font-family: Tahoma, Geneva , sans-serif;
+  }
+  form{
+    margin: auto;
+    margin-left: 360px;
+  }
+  h2{
+      text-align: center;
+  }
+  button{
+    margin: auto;
+    margin-left: 30px;
+    border-radius: 25px;
+  }
+  button:hover{
+    color: #fff;
+    background-color: black;
+  }
